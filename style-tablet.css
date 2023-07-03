@@ -13,16 +13,13 @@
   }
 
   nav .nav-list {
-    position: absolute;
-    width: 100%;
+    display: none;
+    position: fixed;
+    width: 800px;
     padding-left: 100px;
     padding-right: 100px;
     margin-bottom: 80px;
     top: 120px;
-    left: 0;
-    transform: translateY(-500%);
-    z-index: 2;
-    transition: 0.3s;
   }
   nav .navbar-toggler {
     display: grid !important;
