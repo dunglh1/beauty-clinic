@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 * {
   box-sizing: border-box;
   padding: 0;
@@ -621,7 +624,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   color: #ffffff;
 }
 .back-to-top {
-  background-image: url(./image/ToTopButton.jpg);
+  /* background-image: url(./image/ToTopButton.jpg);
   border-style: none;
   width: 36px;
   height: 36px;
@@ -632,6 +635,26 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   float: right;
   margin-right: 40px;
   margin-bottom: 40px;
+   */
+  .gotopbtn {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    width: 45px;
+    height: 45px;
+    background: #ff64ae;
+    bottom: 150px;
+    right: 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+    margin-right: 50px;
+  }
 }
 .facebook-f {
   width: 25px;
