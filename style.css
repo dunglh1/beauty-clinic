@@ -104,7 +104,9 @@ input {
 }
 
 input:checked ~ nav .nav-list {
-  transform: translateX(0);
+  position: fixed;
+  top: 200;
+  right: 0;
 }
 
 input:checked ~ nav .navbar-toggler {
