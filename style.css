@@ -518,6 +518,8 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   letter-spacing: 0em;
   text-align: left;
   color: #091156;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .ct-right p {
@@ -528,6 +530,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   letter-spacing: 0.1em;
   text-align: left;
   color: #8b8b8b;
+  padding-bottom: 40px;
 }
 
 /* --------FOOTER--------- */
