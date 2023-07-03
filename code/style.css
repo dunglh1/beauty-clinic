@@ -22,13 +22,13 @@ body {
   background-position: top left;
 }
 .section-background2 {
-  background-image: url(/image/BackgroundBubble.png);
+  background-image: url(../image/BackgroundBubble.png);
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 70% 70%;
 }
 .section-background3 {
-  background-image: url(/image/ContactBackgroundBubble.png);
+  background-image: url(../image/ContactBackgroundBubble.png);
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: 65% 70%;
@@ -197,7 +197,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
 .learn-more,
 .send-message {
   font-family: Poppins;
-  background-image: url(/image/ButtonBG.jpg);
+  background-image: url(../image/ButtonBG.jpg);
   width: 158px;
   height: 52px;
   border-style: none;
@@ -533,7 +533,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   background-size: 100% 100%;
   background-repeat: no-repeat;
 
-  background-image: url(/image/FooterBG23.png);
+  background-image: url(../image/FooterBG23.png);
   margin: 0 auto;
 }
 .ft-beauty {
@@ -582,7 +582,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   font-weight: 400;
   line-height: 2em;
   letter-spacing: 0.1em;
-  list-style: url(/image/caret-right.png);
+  list-style: url(../image/caret-right.png);
   flex-direction: column;
 }
 .pages ul,
@@ -616,7 +616,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   color: #ffffff;
 }
 .back-to-top {
-  background-image: url(/image/ToTopButton.jpg);
+  background-image: url(../image/ToTopButton.jpg);
   border-style: none;
   width: 36px;
   height: 36px;
@@ -637,7 +637,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   background-color: transparent;
   border-style: none;
   background-repeat: no-repeat;
-  background-image: url(/image/Vector0.png);
+  background-image: url(../image/Vector0.png);
 }
 .twitter-t {
   width: 25px;
@@ -648,7 +648,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   background-color: transparent;
   border-style: none;
   background-repeat: no-repeat;
-  background-image: url(/image/Vector1.png);
+  background-image: url(../image/Vector1.png);
 }
 .linked-in {
   width: 25px;
@@ -659,7 +659,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   background-color: transparent;
   border-style: none;
   background-repeat: no-repeat;
-  background-image: url(/image/Vector2.png);
+  background-image: url(../image/Vector2.png);
 }
 .youtube-y {
   width: 25px;
@@ -670,7 +670,7 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   background-color: transparent;
   border-style: none;
   background-repeat: no-repeat;
-  background-image: url(/image/Vector3.png);
+  background-image: url(../image/Vector3.png);
 }
 .instagram-i {
   width: 25px;
@@ -681,5 +681,5 @@ input:checked ~ nav .navbar-toggler .bar:nth-child(3) {
   background-color: transparent;
   border-style: none;
   background-repeat: no-repeat;
-  background-image: url(/image/Vector4.png);
+  background-image: url(../image/Vector4.png);
 }
